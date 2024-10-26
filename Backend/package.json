@@ -1,0 +1,36 @@
+{
+    "name": "bookstore",
+    "version": "1.0.0",
+    "description": "A MERN stack project for managing books",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/iamkrVishu/BookStore.git"
+    },
+    "author": "Vishvajeet Kumar Singh",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/iamkrVishu/BookStore/issues"
+    },
+    "homepage": "https://github.com/iamkrVishu/BookStore#readme",
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "bookstore": "file:",
+        "cors": "^2.8.5",
+        "dotenv": "^16.4.5",
+        "express": "^4.21.1",
+        "mongodb": "^6.10.0",
+        "mongoose": "^8.7.3",
+        "morgan": "^1.10.0",
+        "nodemon": "^3.1.7"
+    },
+    "keywords": [
+        "mern",
+        "project"
+    ]
+}
