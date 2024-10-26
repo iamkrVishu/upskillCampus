@@ -53,6 +53,7 @@ Non-Functional Requirements:
 Reliable, responsive, and user-friendly interface.
 Software & Hardware Requirements:
 MongoDB, Firebase, React, Node.js, and standard development hardware.
+
 6. Methodology
 Approach: Followed the Agile methodology for iterative development and testing.
 Tools & Technologies: Used MongoDB for database, Firebase for hosting, and React/Node.js for frontend and backend.
