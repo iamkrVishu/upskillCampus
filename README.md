@@ -111,7 +111,6 @@ React Documentation: https://reactjs.org/docs/
 15. Appendices
 Installation Instructions:
 
-Clone the repository.
 Install dependencies using npm install.
 Run the server using npm start.
 Code Snippets: Key algorithms and functions for user authentication and database interactions.
