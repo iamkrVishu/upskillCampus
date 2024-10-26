@@ -9,24 +9,26 @@ Program Name:
 Full Stack Developer
 
 Date of Submission:
-Today
+26/10/2024
 
 Table of Contents
-Executive Summary
-Introduction
-Objectives
-Literature Review
-Requirements Analysis
-Methodology
-System Design
-Development Process
-Testing & Validation
-Challenges Encountered
-Project Results & Analysis
-Conclusion
-Future Work and Recommendations
-References
-Appendices
+
+#Executive Summary
+#Introduction
+#Objectives
+#Literature Review
+#Requirements Analysis
+#Methodology
+#System Design
+#Development Process
+#Testing & Validation
+#Challenges Encountered
+#Project Results & Analysis
+#Conclusion
+#Future Work and Recommendations
+#References
+#Appendices
+
 1. Executive Summary
 This project, Book Store Management System, was developed to streamline book store operations, including inventory management, sales, and user interactions. The project utilized modern web development tools, including MongoDB, Firebase, React, and Node.js. The objectives were achieved through efficient design and effective project management.
 
