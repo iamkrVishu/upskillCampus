@@ -14,20 +14,35 @@ Date of Submission:
 Table of Contents
 
 #Executive Summary
+
 #Introduction
+
 #Objectives
+
 #Literature Review
+
 #Requirements Analysis
+
 #Methodology
+
 #System Design
+
 #Development Process
+
 #Testing & Validation
+
 #Challenges Encountered
+
 #Project Results & Analysis
+
 #Conclusion
+
 #Future Work and Recommendations
+
 #References
+
 #Appendices
+
 
 1. Executive Summary
 This project, Book Store Management System, was developed to streamline book store operations, including inventory management, sales, and user interactions. The project utilized modern web development tools, including MongoDB, Firebase, React, and Node.js. The objectives were achieved through efficient design and effective project management.
@@ -94,6 +109,7 @@ Implemented secure user login and checkout.
 Comparison to Objectives: Objectives met, with minor deviations due to timeline adjustments.
 User Feedback: Positive feedback on UI ease of use and book browsing feature.
 Performance Analysis: Average load time and transaction response times were within targets.
+
 12. Conclusion
 Summary: The project achieved its goal of creating an efficient Book Store Management System.
 Learnings: Improved understanding of full stack development, API integration, and database design.
