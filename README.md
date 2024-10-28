@@ -125,6 +125,7 @@ Recommendations: Adding more user roles and integrating with payment gateways.
 MongoDB Documentation: https://www.mongodb.com/docs/
 Firebase Documentation: https://firebase.google.com/docs/
 React Documentation: https://reactjs.org/docs/
+
 15. Appendices
 Installation Instructions:
 
